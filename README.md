@@ -24,7 +24,7 @@
 # Blogs
 - wyszkolewas.com.pl
 * www.remigiuszbednarczyk.pl
-* [www.testerzy.pl] www.testerzy.pl
+* [www.testerzy.pl] (https://testerzy.pl/)
 - 
 # My test case examples
 * tutaj tabela w excelu 
