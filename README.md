@@ -22,8 +22,8 @@
 # Groups on Facebook
 
 # Blogs
-- wyszkolewas.com.pl
-* www.remigiuszbednarczyk.pl
+* [www.wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/sitemap_index.xml)
+* [www.remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
 * [testerzy.pl](https://testerzy.pl/)
 - 
 # My test case examples
