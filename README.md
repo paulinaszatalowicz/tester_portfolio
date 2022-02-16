@@ -3,6 +3,12 @@
 
 # Tools
 - ChroPath
+- BugMagnet - exploratory testing assistant for Chrome
+- Jira, Trello - issue tracking and project management tool
+- HandBrake changing video format, removing background noise and compressing video files
+- QuicktimePlayer, ScreenCast-O-Matic - screen recording software
+- MindMeister - mind mapping software
+- draw.io - flowchart maker software
 # Technical skills
 - SQL
 # Courses
@@ -24,5 +30,5 @@
 - tablica Trello dla projektu np amazon.com
 - tablica w Jira software dla projektu w Tmobile
 
-- 
+- Finding all 25 bugs at academybugs.com
 
