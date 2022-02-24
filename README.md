@@ -30,20 +30,21 @@ Willing to work with Testing tools and Data. Loyal and motivated to deliver high
 # Groups on Facebook
 * [# Mamo Pracuj w IT](https://www.facebook.com/groups/mamopracujwit)
 * [Dare IT](https://www.facebook.com/groups/dareit.io)
+* [Testowanie oprogramowania](https://www.facebook.com/groups/TestowanieOprogramowania)
+* [Girls Who Test](https://www.facebook.com/girls.who.test)
 
 # Blogs
 * [www.wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/sitemap_index.xml)
 * [www.remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
 * [testerzy.pl](https://testerzy.pl/)
-- 
-# My test case examples
-* tutaj tabela w excelu 
-* i druga tabela np h&m, zara, etc, jakis bank, usługi
-# My bug reports
 
+# My test case examples
+* [H&M webapp test case scenario](https://docs.google.com/spreadsheets/d/1WEo8BCmnOrZqveAireetOc4RmVxjVIbg/edit?usp=sharing&ouid=112076840331481287294&rtpof=true&sd=true)
+* i druga tabela np h&m, zara, etc, jakis bank, usługi
+
+# My bug reports
+* [Duka.com/pl/ bug report](https://docs.google.com/spreadsheets/d/1WEo8BCmnOrZqveAireetOc4RmVxjVIbg/edit?usp=sharing&ouid=112076840331481287294&rtpof=true&sd=true)
 
 # My projects
-* tablica Trello dla projektu np amazon.com
-* tablica w Jira software dla projektu w Tmobile
 * uTest hands-on exploratory testing at [academybugs.com](https://drive.google.com/file/d/1hGRciTNBK3S67RKRgdIxfQIzu100fVp9/view?usp=sharing)
 
