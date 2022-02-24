@@ -39,12 +39,10 @@ Willing to work with Testing tools and Data. Loyal and motivated to deliver high
 * [testerzy.pl](https://testerzy.pl/)
 
 # My test case examples
-* [H&M webapp test case scenario](https://docs.google.com/spreadsheets/d/1WEo8BCmnOrZqveAireetOc4RmVxjVIbg/edit?usp=sharing&ouid=112076840331481287294&rtpof=true&sd=true)
-* i druga tabela np h&m, zara, etc, jakis bank, usługi
+* H&M webapp [test case scenario](https://docs.google.com/spreadsheets/d/1WEo8BCmnOrZqveAireetOc4RmVxjVIbg/edit?usp=sharing&ouid=112076840331481287294&rtpof=true&sd=true)
 
 # My bug reports
-* [Duka.com/pl/ bug report](https://docs.google.com/spreadsheets/d/1WEo8BCmnOrZqveAireetOc4RmVxjVIbg/edit?usp=sharing&ouid=112076840331481287294&rtpof=true&sd=true)
+* DukaPL [bug report](https://docs.google.com/spreadsheets/d/1WEo8BCmnOrZqveAireetOc4RmVxjVIbg/edit?usp=sharing&ouid=112076840331481287294&rtpof=true&sd=true)
 
-# My projects
+# Projects
 * uTest hands-on exploratory testing at [academybugs.com](https://drive.google.com/file/d/1hGRciTNBK3S67RKRgdIxfQIzu100fVp9/view?usp=sharing)
-
