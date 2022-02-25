@@ -23,6 +23,7 @@ Willing to work with Testing tools and Data. Loyal and motivated to deliver high
 * Jira | Agile with Atlassian Jira | Coursera
 * SQL | Google Data Analytics Proffessional Certificate | Coursera
 * uTest Academy | Tester ID: 1324053
+* W3school [SQL manual with excercises](https://www.w3schools.com/sql/default.asp)
 
 # Books
 * Radosław Smiglin | Zawód tester
