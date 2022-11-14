@@ -1,29 +1,27 @@
 # PORTFOLIO
 
-# About me
-Willing to work with Testing tools and Data. Loyal and motivated to deliver high-quality value on time. Missing work with people. Experienced in working with e-commerce business and analytics tools. Used to care for e-commerce web apps in Shoper and Wordpress. Currently learning full-time to constantly improve technical skills to enter IT industry. Already familiar with SQL and Google Sheets/Excel and still improving. Familiar with Jira Software and Agile methodology. Familiar with ISTQB syllabus. Has started coding in Python and participates in DataWorkshop’s challenges. Has natural curiosity that reveals in authentic interest in new technologies and raising their quality. Thanks to uTest Academy gains hands-on experience with bug searching and reporting.
-
 # Tools
-* BugMagnet - exploratory testing assistant for Chrome
-* Jira, Trello, BigPicture - issue tracking and project management tool
-* HandBrake changing video format, removing background noise and compressing video files
-* QuicktimePlayer, ScreenCast-O-Matic - screen recording software
-* MindMeister - mind mapping software
-* draw.io - flowchart maker software
-* PowerBI - visualizing data software
-* AdobePhotoshop - images editor
+* Jira and Redmine (including backlog managing) - issue tracking and project management tools
+* Dev tools
+* Postman - API testing software
+* Screenpresso - screen recording software
+* Miro - mind mapping software
+* Figma/AdobeXD - mock-ups review
 
 # Technical skills
-* SQL
-* Scrum workflow
 * Webapp testing
 * Reporting bugs
+* API testing
+* Managing workflow
 
 # Courses
 * Jira | Agile with Atlassian Jira | Coursera
 * SQL | Google Data Analytics Proffessional Certificate | Coursera
 * uTest Academy | Tester ID: 1324053
 * W3school [SQL manual with excercises](https://www.w3schools.com/sql/default.asp)
+* W3school [HTML & CSS basics](https://www.w3schools.com/html/default.asp) used in configuring ecommerce application as in [example1](css1.png) and [example2](css2.png)
+* Start Your API Testing Journey With Postman Tool | Coursera
+* Postman - Intro to APIs (without coding) | Coursera
 
 # Books
 * Radosław Smiglin | Zawód tester
@@ -38,13 +36,17 @@ Willing to work with Testing tools and Data. Loyal and motivated to deliver high
 * [www.wyszkolewas.com.pl](https://www.wyszkolewas.com.pl/sitemap_index.xml)
 * [www.remigiuszbednarczyk.pl](https://remigiuszbednarczyk.pl/)
 * [testerzy.pl](https://testerzy.pl/)
-
-# My test case examples
-* H&M webapp [test case scenario](https://docs.google.com/spreadsheets/d/1WEo8BCmnOrZqveAireetOc4RmVxjVIbg/edit?usp=sharing&ouid=112076840331481287294&rtpof=true&sd=true)
-* Test Cases written in Polish for both UAT and regression purposes [example1](TestCase11.png) and [example2](TestCase12.png)
-
-# My bug reports
-* DukaPL [bug report](https://docs.google.com/spreadsheets/d/1WEo8BCmnOrZqveAireetOc4RmVxjVIbg/edit?usp=sharing&ouid=112076840331481287294&rtpof=true&sd=true)
+* [Akademia QA](https://akademiaqa.pl)
 
 # Projects
 * uTest hands-on exploratory testing at [academybugs.com](https://drive.google.com/file/d/1hGRciTNBK3S67RKRgdIxfQIzu100fVp9/view?usp=sharing)
+* R&D upgrade from Magento 1.9 to Magento 2.4.2 for Polish e-commerce from public sector
+* SLA Magento 2.4.2 for Polish e-commerce from public sector
+* R&D custom upgrade of simulation of insurance and investment portfolio for leading European business
+
+# My test case examples
+* Test Cases written in Polish for both UAT and regression purposes [example1](TestCase11.png) and [example2](TestCase12.png)
+
+# My bug reports' examples
+* Reporting in English in [Jira](JiraBugReport.png)
+* Reporting in Polish in [Redmine](RedmineBugReport.png)
