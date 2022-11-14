@@ -4,6 +4,7 @@
 * Jira and Redmine (including backlog managing) - issue tracking and project management tools
 * Dev tools
 * Postman - API testing software
+* PageSpeed Insights - performance measurement tool
 * Screenpresso - screen recording software
 * Miro - mind mapping software
 * Figma/AdobeXD - mock-ups review
