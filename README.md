@@ -41,6 +41,7 @@ Willing to work with Testing tools and Data. Loyal and motivated to deliver high
 
 # My test case examples
 * H&M webapp [test case scenario](https://docs.google.com/spreadsheets/d/1WEo8BCmnOrZqveAireetOc4RmVxjVIbg/edit?usp=sharing&ouid=112076840331481287294&rtpof=true&sd=true)
+* Test Cases written in Polish for both UAT and regression purposes [example1](TestCase11.png) and [example2](TestCase12.png)
 
 # My bug reports
 * DukaPL [bug report](https://docs.google.com/spreadsheets/d/1WEo8BCmnOrZqveAireetOc4RmVxjVIbg/edit?usp=sharing&ouid=112076840331481287294&rtpof=true&sd=true)
