@@ -1,7 +1,7 @@
 # PORTFOLIO
 
 # Tools
-* Jira and Redmine (including backlog managing) - issue tracking and project management tools
+* Jira, Confluence and Redmine (including backlog managing) - issue tracking and project management tools
 * Dev tools
 * Postman - API testing software
 * PageSpeed Insights - performance measurement tool
@@ -12,6 +12,7 @@
 # Technical skills
 * Webapp testing
 * Reporting bugs
+* Writing testcases, test scenarios and checklists
 * API testing
 * Managing workflow
 
