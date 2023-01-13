@@ -2,6 +2,7 @@
 
 # Tools
 * Jira, Confluence and Redmine (including backlog managing) - issue tracking and project management tools
+* Qase - integrated with Jira &/ Redmine software that provides test cases, scenarios, test runs etc. great alternative for Excel and Word documentation
 * Dev tools
 * Postman - API testing software
 * PageSpeed Insights - performance measurement tool
